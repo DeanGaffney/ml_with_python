@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "part_1_data_preprocessing"
+version = "0.1.0"
+description = ""
+authors = ["Dean Gaffney <deanpatrickgaffney@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+sklearn = "^0.0"
+numpy = "^1.18.0"
+matplotlib = "^3.1.2"
+pandas = "^0.25.3"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
