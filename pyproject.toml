@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "part_1_data_preprocessing"
+name = "ml_with_python"
 version = "0.1.0"
 description = ""
 authors = ["Dean Gaffney <deanpatrickgaffney@gmail.com>"]
